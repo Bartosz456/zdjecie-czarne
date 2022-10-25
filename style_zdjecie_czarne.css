@@ -1,0 +1,14 @@
+img
+{
+
+    float: calc();
+    width: 900px;
+    height: 590px;
+    filter: grayscale(1);
+    transition: 1s;
+}
+img:hover
+{
+    cursor: pointer;
+    filter: none;
+}
