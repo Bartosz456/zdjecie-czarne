@@ -1,9 +1,10 @@
 img
 {
 
-    float: calc();
+    float: left;
     width: 900px;
     height: 590px;
+    margin: 3px;
     filter: grayscale(1);
     transition: 1s;
 }
